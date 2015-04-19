@@ -3,9 +3,10 @@ testing github markdown
 
 inline `comment` and code.
 
-foo
+foo:
 --------------
-something right after
+
+line  foobar
 
 baz
 ==============
